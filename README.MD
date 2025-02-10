@@ -67,7 +67,7 @@ O Herói tem de saldo de 30 e está no nível de Ouro
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/calculadora-de-partidas-rankeadas.git
+    git clone https://github.com/heyybru/projeto-calculadora.js/blob/main/README.MD?plain=1
     ```
 
 2. Entre no diretório do projeto:
